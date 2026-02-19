@@ -18,7 +18,7 @@ MonoBehaviour:
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1771452568
+  checkedLastUpdateTimestamp: 1771458365
   lastQOTDResponse:
     questionId: 273
     questionText: When you create a new script, do you always have to extend MonoBehaviour?
@@ -27,18 +27,18 @@ MonoBehaviour:
     answerC: Only if you want to use it as a Game Object Component
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1771452568
+  lastQotdTimestamp: 1771458365
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/gameDevReport_2.png
     topText: Stay up to date with the latest in Game Dev straight to your inbox!
     topLink: gamedevreport
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1771452568
+  lastDynamicHeaderTimestamp: 1771458365
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1771452568
+  websiteLatestMessageTimestamp: 1771458365
   websiteLatestVideos:
     videos:
     - youTubeId: qzfsN2tm9ss
@@ -49,4 +49,4 @@ MonoBehaviour:
       title: TOP 10 FREE NEW Assets FEBRUARY 2026!
     - youTubeId: Vb5BZu7TOIk
       title: 8 QUICK Game Dev Tips for SUCCESS!
-  websiteLatestVideosTimestamp: 1771452568
+  websiteLatestVideosTimestamp: 1771458365
